@@ -1,10 +1,10 @@
 
-// Java program to rename a file. 
-import java.io.File; 
+// Java program to rename a file
+
 import java.io.*;
 import java.lang.*;
   
-public class test { 
+public class Rename01 { 
 
     static boolean rename01(String dest,String nname){
 
